@@ -1,0 +1,6 @@
+name: DropPrevention
+version: 1.0-SNAPSHOT
+main: com.tr.donsuzturk.dropprevention.Main
+api-version: 1.16
+authors: [ DonsuzTurk ]
+description: Oyuncuların altında blok yoksa yere item atabilmelerini engeller.
